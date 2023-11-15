@@ -34,8 +34,8 @@ GraphQL testing via Apollo was also necessary to ensure that the database querie
 https://appetyzer-a23045d116f7.herokuapp.com/
 
 ## Link to Github
-https://github.com/BaBread/APPetyzer
+https://github.com/chavisca/CC-APPetyzer
 
 ## Screenshot
 
-![Screenshot_of_the_Appetyzer](/assets/images/Screenshot.jpg)
+![Screenshot_of_the_Appetyzer](/assets/images/screenshot.jpg)
